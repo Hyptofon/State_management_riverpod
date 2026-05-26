@@ -1,4 +1,4 @@
-# 🛒 LR11: State Management з Riverpod
+# 🛒 State Management з Riverpod
 
 Цей проєкт є виконанням лабораторної роботи **LR11: State Management з Riverpod — E-commerce додаток**.
 
@@ -200,5 +200,4 @@ flutter test
 | :--- | :--- |
 | **Студент** | Войтюк Назарій |
 | **Група** | КН-311 |
-| **Завдання** | LR11 — State Management з Riverpod |
 | **Live Demo** | [state-management-riverpod.web.app](https://state-management-riverpod.web.app) |
